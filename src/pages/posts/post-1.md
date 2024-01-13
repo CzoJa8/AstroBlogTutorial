@@ -4,7 +4,7 @@ pubDate: 2024-13-01
 desciption: 'This is the first post of my Astro Blog designed in Tarifa 2024'
 author: 'Astro master'
 image:
-url: 'https://docs.astro.build/assets/full-logo-light.png'
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
 ---
